@@ -1,0 +1,7 @@
+video/
+result/
+yolov5s.pt
+
+*.mp4
+*.jpg
+*.png
