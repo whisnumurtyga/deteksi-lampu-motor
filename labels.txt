@@ -1,0 +1,6 @@
+0 beat
+1 vario
+2 bebek
+3 nmax
+4 rx
+5 scoopy
